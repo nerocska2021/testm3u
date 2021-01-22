@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1,1 Music Channel
+https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
+#EXTINF:-1,Agro TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,Alfa Omega TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,Alfa Omega TV
+https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8
+#EXTINF:-1,Alfa Omega TV
+https://ch.iptvmate.net/99ab43b8e05b44765cee828fc5deafb8.m3u8
+#EXTINF:-1,Antena Comedy
+https://ch.iptvmate.net/8e00b8e53dfd2f3522d4c70bac04e3ee.m3u8
+#EXTINF:-1,Antena Comedy
+https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
